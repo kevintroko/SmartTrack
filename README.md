@@ -1,7 +1,7 @@
 # SmartTrack
 iweek challenge Itesm Campus Guadalajara
 
-## Team
+## Team
 - Kevin 
 - Valentino
 - Gerardo
