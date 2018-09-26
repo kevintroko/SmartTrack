@@ -75,11 +75,15 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
-                android:text="@string/action_sign_in"
+                android:text="log in"
                 android:textStyle="bold"
                 android:textColor="#FFFFFF"
                 android:backgroundTint="@color/colorPrimary" />
-
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="or"
+                android:gravity="center"/>
         </LinearLayout>
     </ScrollView>
 </LinearLayout>
